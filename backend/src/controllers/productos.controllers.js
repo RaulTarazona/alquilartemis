@@ -14,4 +14,6 @@ const getProductos = async (req,res)=>{
 
 export const methodsHTTP = {
     getProductos
-}
+} 
+
+
